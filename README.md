@@ -7,7 +7,8 @@
 
 # Day 1 Lab 
 ## D1_SK3 SKY_L1 :Studied and performed OpenLane Directory Structure in detail
-![VirtualBox_vsdworkshop_18_12_2024_00_30_16_1](https://github.com/user-attachments/assets/79f575ff-f907-41c3-bfd0-9888755c69d4) 1.
+1.
+![VirtualBox_vsdworkshop_18_12_2024_00_30_16_1](https://github.com/user-attachments/assets/79f575ff-f907-41c3-bfd0-9888755c69d4) 
 
 
 
