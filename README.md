@@ -28,3 +28,14 @@
 3.  
 ![VirtualBox_vsdworkshop_19_12_2024_15_43_37_3](https://github.com/user-attachments/assets/6329ceec-ccfe-4b1c-b32b-bbf5aabb3372)
 4.   
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_4](https://github.com/user-attachments/assets/c2d60cd8-be90-422f-a582-157a8c1d5fa2)
+5.
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_5](https://github.com/user-attachments/assets/e6219273-0edf-48b9-ad3a-16e2e2d109e5)
+6.
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_6](https://github.com/user-attachments/assets/326d3718-1c08-41bd-a805-8a33aceb8f90)
+7.
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_7](https://github.com/user-attachments/assets/5d83b756-f5ac-444c-88d0-2c9e806876a7)
+8.
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_8](https://github.com/user-attachments/assets/365aa4dc-fa9c-4736-a679-8d7e6cd8cba8)
+9.
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_9](https://github.com/user-attachments/assets/af934c56-9e1f-4c14-ac5e-dbd124ae8da0)
