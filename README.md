@@ -42,3 +42,40 @@
 
 ## D1_SK3 SKY_L3 :Studied and performed Review files after design prep and run synthesis
 1.
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_1](https://github.com/user-attachments/assets/199a9b81-b6a2-483c-ab08-c6151185c009
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_2](https://github.com/user-attachments/assets/87f845bf-5a36-42e0-9e1d-
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_3](https://github.com/user-attachments/assets/fb4dcac7-d9df-4581-a71e-6ab6423c8860
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_4](https://github.com/user-attachments/assets/0beb3481-a9e9-45cb-b0f6-52580414aac5)
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_5](https://github.com/user-attachments/assets/1beb9e95-2f4b-4c4f-ba30-1c3353806854)
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_6](https://github.com/user-attachments/assets/7f2102a4-9faa-4957-81a2-9cedcf206193)
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_7](https://github.com/user-attachments/assets/80451bc3-b0b9-4739-b379-1c9011426e7b)
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_8](https://github.com/user-attachments/assets/0b5e17c7-7ef2-4a82-b0b3-e37cca249724)
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_9](https://github.com/user-attachments/assets/9bfb2fb9-b86f-4d1d-845c-ec3264599862)
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_10](https://github.com/user-attachments/assets/629a9330-bc3f-4355-b81b-1b6006177ed5)
+
+![VirtualBox_vsdworkshop_19_12_2024_17_23_00_11](https://github.com/user-attachments/assets/69ffcd0a-2ecc-42f3-ab4f-9cb3f7d9daf3)
+
+## D1_SK3 SKY_L4 :Studied and performed OpenLANE Project Git Link Description
+1.
+![VirtualBox_vsdworkshop_19_12_2024_18_35_38_1](https://github.com/user-attachments/assets/1f1cb923-58a8-44bf-8441-9229d7dae9b6)
+2. Synthesis Results
+![VirtualBox_vsdworkshop_19_12_2024_18_38_57_synth1](https://github.com/user-attachments/assets/ae82c127-88e1-4ad5-8f8c-1aff891c8a19)
+3.
+![VirtualBox_vsdworkshop_19_12_2024_18_38_57_synth2](https://github.com/user-attachments/assets/f430b6cb-04fb-4964-954f-c0917754618a)
+4.
+![VirtualBox_vsdworkshop_19_12_2024_18_38_57_synth3](https://github.com/user-attachments/assets/f771fe9f-9c14-4a51-9f5c-1e0b5804cad6)
+
+
+
+
+
+
