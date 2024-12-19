@@ -85,11 +85,11 @@
 ![VirtualBox_vsdworkshop_19_12_2024_19_53_13_AREA](https://github.com/user-attachments/assets/de65cc8e-2809-4290-bdbb-8f0a6b1112c5)
 5.
 ![VirtualBox_vsdworkshop_19_12_2024_19_53_13_FLOP_RATIO](https://github.com/user-attachments/assets/b5cae5cc-1a78-4729-85c0-475c549f86bc)
-6. ## Chip area for module '\picorv32a': 147712.918400 um^2
+## 6.  Chip area for module '\picorv32a': 147712.918400 um^2
 
-7. ## Main task: To calculate the flop ratio
+## 7. Main task: To calculate the flop ratio
 
-  Flop Ratio = Number of DFFs / total number of cells = Number of sky130_fd_sc_hd__dfxtp_2 / Number of cells = 1613 / 14876 = 0.1088 = 10.8869
+## Flop Ratio = Number of DFFs / total number of cells = Number of sky130_fd_sc_hd__dfxtp_2 / Number of cells = 1613 / 14876 = 0.1088 = 10.8869
 
 ## Hence, Flop Ratio = 10.8869
 
