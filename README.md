@@ -20,9 +20,9 @@
 6.
 ![Screenshot 2024-12-18 003814_6](https://github.com/user-attachments/assets/f8d3dd32-6e5a-4766-b0af-75ba3a23df18)
 
-
-
-
-
-
-
+## D1_SK3 SKY_L2 :Studied and performed Design Preparation Step
+1.
+![VirtualBox_vsdworkshop_19_12_2024_15_30_56_1](https://github.com/user-attachments/assets/4a149e92-ea37-47f1-9a75-007efdae8f9b)
+2.
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_2](https://github.com/user-attachments/assets/9aa03f4a-4c07-4806-ae55-7699803cf9c3)
+3.  
