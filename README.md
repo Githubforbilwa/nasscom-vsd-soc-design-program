@@ -40,7 +40,7 @@
 8.
 ![VirtualBox_vsdworkshop_19_12_2024_15_43_37_8](https://github.com/user-attachments/assets/365aa4dc-fa9c-4736-a679-8d7e6cd8cba8)
 9.
-![VirtualBox_vsdworkshop_19_12_2024_15_43_37_9](https://github.com/user-attachments/assets/af934c56-9e1f-4c14-ac5e-dbd124ae8da0
+![VirtualBox_vsdworkshop_19_12_2024_15_43_37_9](https://github.com/user-attachments/assets/af934c56-9e1f-4c14-ac5e-dbd124ae8da0)
 
 ## D1_SK3 SKY_L3 :Studied and performed Review files after design prep and run synthesis
 1. 
