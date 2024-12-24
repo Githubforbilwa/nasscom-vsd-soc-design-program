@@ -138,13 +138,14 @@
 
 ## D2_SK1 SKY_L8 :Studied and performed Review floorplan layout in Magic
 1.
-
+![VirtualBox_vsdworkshop_22_12_2024_12_47_42_1](https://github.com/user-attachments/assets/46954a0e-3e4f-4e57-b963-5c05110a75a0)
 2.
-  
+![VirtualBox_vsdworkshop_22_12_2024_12_53_02_2](https://github.com/user-attachments/assets/7f7bed6f-0afb-43e5-8384-62897a5df1fa)
 3.
-  
+![VirtualBox_vsdworkshop_22_12_2024_12_53_02_2_3](https://github.com/user-attachments/assets/1d1da553-5e37-4f39-803a-6d9db8401efd)
 4.
- 
+![VirtualBox_vsdworkshop_22_12_2024_14_25_11_4](https://github.com/user-attachments/assets/089842b6-39e5-4677-9e14-244f4c712e66)
+
   
 
 
