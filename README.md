@@ -105,17 +105,35 @@
 ![VirtualBox_vsdworkshop_19_12_2024_21_58_18_4](https://github.com/user-attachments/assets/1f41357b-d167-41e3-978c-cac452cc5e38)
 
 
+# Day 2 Lab ASIC design flow
+## D2_SK1 SKY_L6 :Studied and performed Steps to run floorplan using OpenLANE
+1.
+![VirtualBox_vsdworkshop_21_12_2024_13_43_30_1](https://github.com/user-attachments/assets/e33321b7-83fe-4d21-b79b-df979899f336)
+2. 
+![VirtualBox_vsdworkshop_21_12_2024_13_43_30_2](https://github.com/user-attachments/assets/35c5330b-7459-4dbb-bd1f-92ed540e8519)
+3.
+![VirtualBox_vsdworkshop_21_12_2024_13_43_30_3](https://github.com/user-attachments/assets/5991d623-a262-486f-99a6-df2530e22f4f)
+4.
+![VirtualBox_vsdworkshop_21_12_2024_13_43_30_4](https://github.com/user-attachments/assets/aba11e7d-3548-430a-91ba-07c584325795)
+5.
+![VirtualBox_vsdworkshop_21_12_2024_13_43_30_5](https://github.com/user-attachments/assets/91f6eebc-681e-4a1e-aa07-a57cd43f3d37)
+6.
+![VirtualBox_vsdworkshop_21_12_2024_13_43_30_6](https://github.com/user-attachments/assets/60366d71-c265-4b21-b303-f1cb20dab2a9)
+7.
+![VirtualBox_vsdworkshop_21_12_2024_13_43_30_7](https://github.com/user-attachments/assets/a8952c33-28b8-443b-85f1-f72b3e5ce8b9)
 
+## D2_SK1 SKY_L7 :Studied and performed Review floorplan files and steps to review floorplan
+1.
 
+2.
 
+3.
 
+4.
 
+5.
 
-
-
-
-
-
+6.
 
 
 
