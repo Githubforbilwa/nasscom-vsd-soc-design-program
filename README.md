@@ -124,16 +124,28 @@
 
 ## D2_SK1 SKY_L7 :Studied and performed Review floorplan files and steps to review floorplan
 1.
+![VirtualBox_vsdworkshop_22_12_2024_11_34_57_1](https://github.com/user-attachments/assets/c27ee559-a2fb-40e1-86f4-60b854a58426)
+2.
+![VirtualBox_vsdworkshop_22_12_2024_11_41_54_2](https://github.com/user-attachments/assets/b7eea670-14fc-4a4e-b334-4c7b521ea3a3)
+3.
+![VirtualBox_vsdworkshop_22_12_2024_11_41_54_3](https://github.com/user-attachments/assets/3e1af80e-e685-4144-b000-c08d26421d7f)
+4.
+![VirtualBox_vsdworkshop_22_12_2024_11_41_54_4](https://github.com/user-attachments/assets/34b555e5-7566-4693-9453-01c2e8b839df)
+5.
+![VirtualBox_vsdworkshop_22_12_2024_11_41_54_5](https://github.com/user-attachments/assets/0b34b486-3b25-4d07-8c82-5d4da8235fdf)
+6.
+![VirtualBox_vsdworkshop_22_12_2024_12_01_37_6](https://github.com/user-attachments/assets/8b46776e-5475-4d2f-8822-024783cf9d25)
+
+## D2_SK1 SKY_L8 :Studied and performed Review floorplan layout in Magic
+1.
 
 2.
-
+  
 3.
-
+  
 4.
-
-5.
-
-6.
+ 
+  
 
 
 
