@@ -146,16 +146,25 @@
 4.
 ![VirtualBox_vsdworkshop_22_12_2024_14_25_11_4](https://github.com/user-attachments/assets/089842b6-39e5-4677-9e14-244f4c712e66)
 
-  
-
-
-
-
-
-
-
-
-
+## D2_SK2 SKY_L5 :Studied and performed Congestion aware placement using RePlAce
+1. 
+![VirtualBox_vsdworkshop_22_12_2024_16_03_51_1](https://github.com/user-attachments/assets/c2999571-2163-439f-97d6-386efd783c31)
+2.
+![VirtualBox_vsdworkshop_22_12_2024_15_28_15_2](https://github.com/user-attachments/assets/87a9a11c-bfe0-4843-8411-24f0f5f0295e)
+3.
+![VirtualBox_vsdworkshop_22_12_2024_15_19_47_3](https://github.com/user-attachments/assets/daa4dac3-e11d-41c8-a110-0cad9bb22686)
+4.
+![VirtualBox_vsdworkshop_22_12_2024_16_07_19_4](https://github.com/user-attachments/assets/cae7abeb-c1af-4b11-8b26-d9a929f869a9)
+5.
+![VirtualBox_vsdworkshop_22_12_2024_16_17_23_5](https://github.com/user-attachments/assets/8a6a7c00-80dd-4497-ab38-a01eb3557107)
+6.
+![VirtualBox_vsdworkshop_22_12_2024_16_25_28_6](https://github.com/user-attachments/assets/12fe5337-939b-4255-a74c-16ec633bfcb9)
+7.
+![VirtualBox_vsdworkshop_22_12_2024_16_29_27_7](https://github.com/user-attachments/assets/046a8d2f-8315-44dc-ad73-cd22d70ff96b)
+8.
+![VirtualBox_vsdworkshop_22_12_2024_16_29_27_8](https://github.com/user-attachments/assets/55cd5fbe-905b-4373-9f8d-9e5943665c42)
+9.
+![VirtualBox_vsdworkshop_22_12_2024_16_39_14_9](https://github.com/user-attachments/assets/adeb49d5-a211-4218-8134-e4459e2bd11a)
 
 
 
